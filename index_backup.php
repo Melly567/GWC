@@ -192,75 +192,45 @@ Author URL: http://w3layouts.com
             <div class="container py-lg-5 py-md-4 py-2">
                 <h3 class="title-w3l text-center mb-2">OUR SERVICES</h3>
                 <p class="text-center mb-5">Discover our comprehensive framework: Knowledge, Community & Resources</p>
-                <!-- KCR Interactive Bubbles -->
-                <div class="kcr-bubbles-container">
-                    <div class="row justify-content-center">
-                        <!-- Knowledge Bubble -->
-                        <div class="col-lg-4 col-md-6 mb-4">
-                            <div class="kcr-bubble knowledge-bubble" data-kcr="knowledge">
-                                <div class="bubble-inner">
-                                    <div class="bubble-icon">
-                                        <i class="fas fa-graduation-cap"></i>
-                                    </div>
-                                    <h3 class="bubble-title">K</h3>
-                                    <h4 class="bubble-subtitle">KNOWLEDGE</h4>
-                                    <div class="bubble-overlay">
-                                        <h5>Digital Literacy & Learning</h5>
-                                        <ul>
-                                            <li>Advanced Digital Skills</li>
-                                            <li>Practical Trainings</li>
-                                            <li>Real Life Experiences</li>
-                                            <li>Professional Certifications</li>
-                                            <li>Modern Learning Methods</li>
-                                        </ul>
-                                    </div>
-                                </div>
+                <div class="row mt-lg-5 mt-4 text-center">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="grids5-info">
+                            <a href="#service" class="d-block zoom"><img src="assets/image/s2.png" alt=""
+                                    class="img-fluid" /></a>
+                            <div class="blog-info">
+                                <a href="#service" class="title left">DIGITAL ENTREPRENEURSHIP &  SKILLS PROGRAM</a>
+                                <p class="text-para left">Complementing the already existing General Entrepreneurship
+                                    Course with digital and practical training. Tailored and designed to
+                                    the NUC requirements for CA in General Entrepreneurship. <br>- Advanced Digital skills <br>- Practical Trainings <br>- Real Life Experiences <br>- Certifications</p>
                             </div>
+                           
                         </div>
-                        <!-- Community Bubble -->
-                        <div class="col-lg-4 col-md-6 mb-4">
-                            <div class="kcr-bubble community-bubble" data-kcr="community">
-                                <div class="bubble-inner">
-                                    <div class="bubble-icon">
-                                        <i class="fas fa-users"></i>
-                                    </div>
-                                    <h3 class="bubble-title">C</h3>
-                                    <h4 class="bubble-subtitle">COMMUNITY</h4>
-                                    <div class="bubble-overlay">
-                                        <h5>Building Networks & Connections</h5>
-                                        <ul>
-                                            <li>Brainstorming & Ideation</li>
-                                            <li>Programs & Courses</li>
-                                            <li>Events & Competitions</li>
-                                            <li>Networking Opportunities</li>
-                                            <li>Likeminded Community</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Resources Bubble -->
-                        <div class="col-lg-4 col-md-6 mb-4">
-                            <div class="kcr-bubble resources-bubble" data-kcr="resources">
-                                <div class="bubble-inner">
-                                    <div class="bubble-icon">
-                                        <i class="fas fa-tools"></i>
-                                    </div>
-                                    <h3 class="bubble-title">R</h3>
-                                    <h4 class="bubble-subtitle">RESOURCES</h4>
-                                    <div class="bubble-overlay">
-                                        <h5>Tools, Opportunities & Support</h5>
-                                        <ul>
-                                            <li>Exchange Programs</li>
-                                            <li>Competitions & Awards</li>
-                                            <li>Employment & Investments</li>
-                                            <li>Grants & Funding</li>
-                                            <li>Conferences & Events</li>
-                                        </ul>
-                                    </div>
                     </div>
-                </div>
+                    <div class="col-lg-4 col-md-6 mt-md-0 mt-5">
+                        <div class="grids5-info">
+                            <a href="#service" class="d-block zoom"><img src="assets/image/s3.png" alt=""
+                                    class="img-fluid" /></a>
+                            <div class="blog-info">
+                                <a href="#service" class="title left">DIGITAL ENTREPRENEURSHIP & SKILLS CENTRE</a>
+                                <p class="text-para left">A centre established to serve as the home for students that
+                                    wants to invest further in themselves in the digital space. The
+                                    centre offers e.g. short courses, incubation programs, mentoring,
+                                    a physical common point for likeminded individuals. <br>- Brainstorming & Ideation <br>- Programs & Courses <br>- Events & Competitions <br>- Resources for employment and company set up <br>- Community of likeminded</p>
                             </div>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-lg-0 mt-5">
+                        <div class="grids5-info">
+                            <a href="#service" class="d-block zoom"><img src="assets/image/s1.png" alt=""
+                                    class="img-fluid" /></a>
+                            <div class="blog-info">
+                                <a href="#service" class="title left">DIGITAL ENTREPRENEURSHIP &  SKILLS OPPORTUNITIES</a>
+                                <p class="text-para left"> Access to Nation and global wide opportunities in Digital
+                                    Entrepreneurship & skills through GWC’s other projects and its
+                                    partners. <br>- Exchange Programs <br>- Competitions & Awards <br>- Employments & Investments <br>- Grants <br>- Conferences & Events</p>
+                            </div>
+                           
                         </div>
                     </div>
                 </div>
@@ -322,50 +292,10 @@ Author URL: http://w3layouts.com
         <section id="grids5-block" class="py-5">
             <div class="container py-lg-5 py-md-4 py-2">
                 <!-- <h5 class="title-subw3hny text-center">Protect Yourself?</h5> -->
-                <h3 class="title-w3l text-center mb-5">OUR PARTNERS</h3>
-                <!-- Animated Partners Carousel -->
-                <div class="partners-carousel-container">
-                    <div class="partners-carousel">
-                        <div class="partner-logos">
-                            <!-- Partner logos - duplicated for seamless scrolling -->
-                            <div class="partner-logo">
-                                <img src="assets/image/logo.png" alt="Global Wissen" />
-                            </div>
-                            <div class="partner-logo">
-                                <img src="assets/image/logo.png" alt="Partner 1" />
-                            </div>
-                            <div class="partner-logo">
-                                <img src="assets/image/logo.png" alt="Partner 2" />
-                            </div>
-                            <div class="partner-logo">
-                                <img src="assets/image/logo.png" alt="Partner 3" />
-                            </div>
-                            <div class="partner-logo">
-                                <img src="assets/image/logo.png" alt="Partner 4" />
-                            </div>
-                            <div class="partner-logo">
-                                <img src="assets/image/logo.png" alt="Partner 5" />
-                            </div>
-                            <!-- Duplicate set for seamless loop -->
-                            <div class="partner-logo">
-                                <img src="assets/image/logo.png" alt="Global Wissen" />
-                            </div>
-                            <div class="partner-logo">
-                                <img src="assets/image/logo.png" alt="Partner 1" />
-                            </div>
-                            <div class="partner-logo">
-                                <img src="assets/image/logo.png" alt="Partner 2" />
-                            </div>
-                            <div class="partner-logo">
-                                <img src="assets/image/logo.png" alt="Partner 3" />
-                            </div>
-                            <div class="partner-logo">
-                                <img src="assets/image/logo.png" alt="Partner 4" />
-                            </div>
-                            <div class="partner-logo">
-                                <img src="assets/image/logo.png" alt="Partner 5" />
-                            </div>
-                        </div>
+                <h3 class="title-w3l text-center">OUR PARTNERS</h3>
+                <div class="row mt-lg-5 mt-4 text-center">
+                    <div class="col-lg-12 col-md-12">
+                        <img src="assets/image/clients.png" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>
